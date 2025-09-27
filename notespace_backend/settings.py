@@ -75,7 +75,8 @@ WSGI_APPLICATION = 'notespace_backend.wsgi.application'
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
-    'http://localhost:5173'
+    'http://localhost:5173',
+    'https://notespace-7sad.onrender.com'
 ]
 
 
